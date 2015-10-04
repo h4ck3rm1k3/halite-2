@@ -4,3 +4,5 @@ coverage/
 **/pkg
 .yardoc/
 doc/
+/Makefile~
+/halite-1.0.10.pre.gem
